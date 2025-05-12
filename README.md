@@ -20,7 +20,9 @@ Facilitar el aprendizaje y dominio de plataformas virtuales por parte de docente
 
 ## 📂 Organización del Proyecto
 - Repositorio: [Ingesoft_II](https://github.com/javiierbarco/Ingesoft_II)
-- Proyecto en GitHub: Tablero Kanban con roadmap de 3 iteraciones
+- Proyecto en GitHub: Tablero Kanban con roadmap de 3 iteraciones.
+- Proyecto en GitHub: [Tablero Kanban con roadmap](https://github.com/users/javiierbarco/projects/1)
+
 
 ## 👥 Equipo
 - Nombre del equipo: Castores
