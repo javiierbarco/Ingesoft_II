@@ -26,13 +26,13 @@ Facilitar el aprendizaje y dominio de plataformas virtuales por parte de docente
 - Nombre del equipo: Castores
 - Integrantes:
 
-Wullfredo Javier Barco Godoy
-Estepahnie Perez Mira
-Frank Sebastian Pardo Amaya
-Juan David Rivera Buitrago
-Diego Humberto Lavado González
-Victor Manuel Torres Alonso
-Javier Esteban Gonzalez Vivas
+Wullfredo Javier Barco Godoy,
+Estepahnie Perez Mira,
+Frank Sebastian Pardo Amaya,
+Juan David Rivera Buitrago,
+Diego Humberto Lavado González,
+Victor Manuel Torres Alonso,
+Javier Esteban Gonzalez Vivas.
 
 ---
 
